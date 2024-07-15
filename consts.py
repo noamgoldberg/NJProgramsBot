@@ -9,3 +9,5 @@ ASPIRE_PROGRAM = "ASPIRE Program"
 EMERGE_PROGRAM = "EMERGE Program"
 BROWNFIELD_PROGRAM = "Brownfield Redevelopment Program"
 OFFSHORE_WIND_PROGRAM = "Offshore Wind Tax Credit Program"
+
+OPENAI_API_KEY_HASH = '31a4492387ded89b7699ef9a0124e4ab0d4d2a4eaf1cdb054b40be2c8bb96db0'

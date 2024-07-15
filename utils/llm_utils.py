@@ -2,8 +2,12 @@ import os
 from typing import Optional
 
 from llm_agent_openai import LLMAgent
-from consts import CONTEXT_FILEPATH
+from utils.hash_utils import hash_str
+from consts import CONTEXT_FILEPATH, OPENAI_API_KEY_HASH
 
+
+def is_openai_api_key_valid(openai_api_key: str) -> bool:
+    return hash_str(openai_api_key) == OPENAI_API_KEY_HASH
 
 def initialize_llm(
     openai_api_key: Optional[str] = None,

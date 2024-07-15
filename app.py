@@ -2,11 +2,11 @@ import os
 from dotenv import load_dotenv
 import streamlit as st
 
-from utils.llm_utils import initialize_llm
+from utils.llm_utils import initialize_llm, is_openai_api_key_valid
 from questions import QUESTIONS
 
 
-load_dotenv()
+# load_dotenv()
 
 def ask_question(question):
     question_type = question["type"]
@@ -52,11 +52,11 @@ def get_open_api_key() -> str:
     else:
         def enter_key_callback():
             key = st.session_state.get("openai_api_key_input", "").strip()
-            if key:
+            if is_openai_api_key_valid(key):
                 st.session_state["openai_api_key"] = key
                 st.session_state["mode"] = "questions"
             else:
-                st.warning("API Key cannot be empty.")
+                st.warning("Invalid API Key, please try again :)")
 
         if st.session_state["mode"] == "key_entry":
             st.text_input("Enter your OpenAI API Key:", key="openai_api_key_input")
