@@ -45,8 +45,6 @@ def check_dependencies(question: dict, answers: dict) -> bool:
 def get_open_api_key() -> str:
     if "mode" not in st.session_state:
         st.session_state["mode"] = "key_entry"
-    # if "openai_api_key" not in st.session_state:
-    #     st.session_state["openai_api_key"] = os.getenv("OPENAI_API_KEY")
     if "OPENAI_API_KEY" in os.environ:
         st.session_state["openai_api_key"] = os.environ["OPENAI_API_KEY"]
         st.session_state["mode"] = "questions"
