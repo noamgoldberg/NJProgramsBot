@@ -14,6 +14,8 @@
 ## [Programs](https://www.njeda.gov/activeprograms/)
 
 ### [EMERGE PROGRAM](https://www.njeda.gov/emerge/)
+_Provides tax credits for job creation_
+
 To be eligible for Emerge support, a project must:
 - Create at least 35 new, full-time jobs. In some circumstances, this job creation requirement may be lower if a business is primarily engaged in a targeted industry, or if a business meets the definition of a “small business” as defined in the Emerge Program rules.
 - Be located in an Eligible Incentive location. (https://njeda.maps.arcgis.com/apps/webappviewer/index.html?id=8fed69ed4a664ec6b76f2a6ab633444c)
@@ -24,7 +26,10 @@ To be eligible for Emerge support, a project must:
 - Commit to stay at the Qualified Business Facility for 1.5 times the eligibility period.
 - Demonstrate that the award of the tax credit is a “material factor” in the decision to create or retain at least the minimum number of full-time jobs.
 
-### [ASPIRE PROGRAM](https://www.njeda.gov/aspire/)
+### [ASPIRE PROGRAM]
+(https://www.njeda.gov/aspire/)
+_Supports redevelopment projects with financial gaps_
+
 To be eligible for Aspire support, a project must:
 - Demonstrate through NJEDA analysis that without the incentive award, the redevelopment project is not economically feasible.
 - Demonstrate that a project financing gap exists and/or the redevelopment project will generate a below market rate of return.
@@ -34,6 +39,8 @@ To be eligible for Aspire support, a project must:
 - Meet specific cost thresholds, depending on where the project is located.
 
 ### [NJ RISE PROGRAM](https://www.njeda.gov/njrise/)
+_Assists businesses with 25+ U.S. employees_
+
 In order to qualify for NJ Rise:
 - The business has 25 or more U.S. Full-Time Employees
 - The business must submit a completed application to the EDA on or before July 1, 2028
@@ -43,6 +50,8 @@ In order to qualify for NJ Rise:
 - A current tax clearance will need to be provided at application and maintained through disbursement to demonstrate the applicant is properly registered to do business in New Jersey and in substantial good standing with the New Jersey Division of Taxation
 
 ### [FILM TAX CREDIT PROGRAM](https://www.njeda.gov/film/)
+_Offers tax credits for eligible film projects_
+
 In order for a film project to be eligible for tax credits under the NJ Film Tax Credit Program, the film project must:
 - Be a feature film, a television series, or a television show of 22 minutes or more in length, intended for a national audience, or a television series or a television show of 22 minutes or more in length intended for a national or regional audience, including, but not limited to, a game show, award show, or other gala event filmed and produced at a nonprofit arts and cultural venue receiving State funding. Productions featuring news, current events, weather, and market reports or public programming, sports event, a production that solicits funds, a production containing obscene material as defined under N.J.S.2C:34-2 and N.J.S.2C:34-3, or a production primarily for private, industrial, corporate, or institutional purposes are not eligible for film tax credits.
 - Reality Shows are ineligible unless the production company:
@@ -56,10 +65,14 @@ In order for a film project to be eligible for tax credits under the NJ Film Tax
 - “Reality shows”, which are otherwise ineligible, may be eligible for the Film Tax Credit Program if the production company of the reality show owns, leases, or otherwise occupies a production facility of at least 20,000 square feet in an Urban Enterprise Zone for at least two years, and, after July 1, 2018, makes a capital investment of at least $3 million in that facility.
 
 ### [DIGITAL MEDIA TAX CREDIT PROGRAM](https://www.njeda.gov/film/)
+_Provides tax credits for digital media productions_
+
 In order for a film project to be eligible for tax credits under the NJ Digital Media Tax Credit Program:
 - At least $2 million of the total digital media production expenses must be incurred for services performed and goods purchased through vendors authorized to do business in New Jersey and at least 50 percent of the qualified digital media content production expenses must be for wages and salaries paid to full-time employees in New Jersey.
 
 ### [BROWNFIELD REDEVELOPMENT INCENTIVE](https://www.njeda.gov/brownfield-redevelopment-incentive/)
+_Covers costs for brownfield remediation and redevelopment_
+
 The Brownfields Redevelopment Incentive covers specific costs associated with brownfield remediation and redevelopment. Eligible costs include those associated with investigation and remediation of environmental contamination and building and structural remedial activities.
 “Brownfield site” means any former or current commercial or industrial site that is currently vacant or underutilized and on which there has been, or there is suspected to have been, a discharge of a contaminant, or on which there is contaminated building material.
 To receive tax credits through the Brownfields Redevelopment Incentive Program, a project must:
@@ -76,6 +89,8 @@ To receive tax credits through the Brownfields Redevelopment Incentive Program, 
 - Meet Green Remediation/Green Building Standards
 
 ### [OFFSHORE WIND TAX CREDIT PROGRAM](https://www.njeda.gov/offshorewind/)
+_Encourages investment in offshore wind industry facilities_
+
 The Offshore Wind Tax Credit is a powerful financial tool designed to spur private capital investment and employment growth in major, land-based offshore wind industry projects. The tax credit program provides reimbursement for capital investments in industry-specific facilities located in New Jersey.
 
 #### Capital Investment Requirements:
@@ -105,6 +120,8 @@ The Offshore Wind Tax Credit is a powerful financial tool designed to spur priva
 - New full-time jobs can be counted if the employee’s primary office is at the qualified wind energy facility and they spend at least 80% of his or her time at the facility.  They can also be counted if they result from a supply coordination agreement and the employee spends at least 80% of his or her time in New Jersey.
 
 ### [TECHNOLOGY BUSINESS TAX CERTIFICATE TRANSFER (NOL) PROGRAM](https://www.njeda.gov/nol/)
+_Allows technology companies to sell net operating losses_
+
 - Only technology and biotechnology companies whose primary business involves the provision of a scientific process, product or service are eligible
 - An eligible company must own, have filed for, or have a license to use protected, proprietary intellectual property (defined as a patent or a registered copyright)
 - An eligible company cannot have had positive net operating income on either of its last two full-year income statements according to GAAP.  In addition, an eligible company cannot have a parent company with positive net operating income, or be part of a consolidated group of affiliates for federal income tax purposes with positive net operating income
@@ -113,6 +130,8 @@ The Offshore Wind Tax Credit is a powerful financial tool designed to spur priva
 - A company must demonstrate meeting all eligibility criteria at application and benefit closing. This includes numbers of employees confirmed via appropriate documentation.
 
 ### [NJ EVERGREEN FUND](https://www.njeda.gov/evergreen/)
+_Invests in New Jersey-based high-growth companies_
+
 The New Jersey Innovation Evergreen Fund (NJIEF) is a partnership with the private sector that will raise and invest funds in New Jersey-based companies to address New Jersey’s shortfalls in venture capital funding and create the conditions necessary for entrepreneurs to succeed.
 
 Professional, institutional venture capital investors can apply to become a Qualified Venture Firm (QVF). Under the program, Qualified Venture Firms will have access to up to $12.5 million per year to invest in the growth and creation of jobs in New Jersey-based companies operating in innovative sectors. Qualified Businesses receiving investment may also access support from the NJIEF Fund Advisory Board, comprised of corporations that purchased tax credits as part of the NJIEF Corporate Tax Credit Auction.
