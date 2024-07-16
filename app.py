@@ -87,7 +87,9 @@ def run():
             )
             analysis = llm.query(f"The following Q&A describes a proposed project:\n\n{answers}")
             st.write(analysis)
-        elif st.session_state["mode"] == "questions":
+            st.write("Answers:")
+            st.write(answers)
+        elif st.session_state["mode"] == "questions": 
             answers = {}
             for question in QUESTIONS:
                 if check_dependencies(question, answers):
@@ -102,8 +104,10 @@ def run():
                         "answer": answer,
                         "required": question.get("required", True),
                     }
-
-            if st.session_state["started"] and st.button("Submit"):
+            submitted = st.button("Submit")
+            if len(st.session_state.get("missing_questions", [])) > 0:
+                st.error(f"There are {key} required, unanswered questions remaining")
+            if st.session_state["started"] and submitted:
                 st.session_state["submit_clicked"] = True
                 st.session_state["missing_questions"] = [
                     q for q in answers if answers[q]["required"] and answers[q]["answer"] is None

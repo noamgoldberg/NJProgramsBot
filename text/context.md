@@ -5,6 +5,9 @@
     1. Understand the purpose and eligiblity requirements of New Jersey's various tax credit and other programs (the "Programs")
     2. Identify the Programs that are relevant to the Project (the "Relevant Programs")
     3. Explain what qualifies the Project for each of the Relevant Programs. If you fail to identify any Relevant Programs, explain why the Project does not qualify for any Programs (i.e. if there are Programs that are almost relevant, explain why they are not relevant to the Project).
+    NOTE: Mention only programs for which the project is eligible. In other words, you should only mention programs for which the project did not qualify (bu almost qualified) if the project qualifies does not qualify for any programs. 
+    NOTE: In the event that the project is eligible for more than 1 program, mention that NJ tax credit programs are stackable, meaning that the project is to eligible to benefit from multiple programs simultaneously.
+- Dont capitalize the pharse "relevant programs" in your answer
 - Use an informative tone. Be very concise and very clear.
 - Below are New Jersey's only available Programs. Study and understand them.
 
